@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently a freelancer<br>
+✔ I’m currently a fullstack developer in Inspiring Lab Pvt. Ltd.<br>
 ✔ I’m currently learning about full stack with MERN**🥰<br>
 ✔ Ask from me anything you want, If I am alive I will answer for sure 😉<br>
 ✔ Fun fact : *I Always try to LEARN and SHARE* 😎<br><br><br><br>
